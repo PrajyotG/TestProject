@@ -1,0 +1,11 @@
+{
+  "name": "firstproject",
+  "version": "1.0.0",
+  "description": "Test Project created by Prajyot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Prajyot Gurav",
+  "license": "ISC"
+}
